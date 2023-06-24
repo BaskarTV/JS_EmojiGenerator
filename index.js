@@ -11,7 +11,7 @@ function addTitleToContainer() {
 function inputPlaceholder() {
     // Input placeholder
     const inputHolder = document.createElement('input')
-    inputHolder.placeholder = "Type I am and your feelings (eg:'happy','sad')";
+    inputHolder.placeholder = "Type I am and your(eg:'happy','sad')";
     inputHolder.id = "text"
     container.appendChild(inputHolder)
 
