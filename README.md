@@ -46,4 +46,3 @@ For any questions, issues, or feedback, please feel free to contact me at baskar
 ---
 
 Thank you for using the Emoji Generator! We hope you enjoy adding a touch of fun and creativity to your text with emojis.
->>>>>>> 74d34e8c7e9e5541b9a0ac944de91777c1b52827
